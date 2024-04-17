@@ -1,0 +1,10 @@
+icon.ico
+selenium
+customtkinter
+Pillow
+pypdf4
+threading
+re
+os
+io
+requests
